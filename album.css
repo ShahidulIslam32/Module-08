@@ -4,6 +4,7 @@ body{
 .photo-album{
    display: flex;
    flex-wrap: wrap;
+   justify-content: center;
  
 }
 .photo-frame{
